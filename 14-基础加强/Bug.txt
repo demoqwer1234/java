@@ -1,0 +1,9 @@
+div出现了异常
+异常名称：ArithmeticException
+异常原因：/ by zero
+-------------
+add出现了异常
+异常名称：NullPointerException
+异常原因：null
+-------------
+共出现了2次BUG

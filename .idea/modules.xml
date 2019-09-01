@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01-API/01-API.iml" filepath="$PROJECT_DIR$/01-API/01-API.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-CollectionAndReflect/02-CollectionAndReflect.iml" filepath="$PROJECT_DIR$/02-CollectionAndReflect/02-CollectionAndReflect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-ListAndSet/03-ListAndSet.iml" filepath="$PROJECT_DIR$/03-ListAndSet/03-ListAndSet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-map/04-map.iml" filepath="$PROJECT_DIR$/04-map/04-map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-ExceptionAndThread/05-ExceptionAndThread.iml" filepath="$PROJECT_DIR$/05-ExceptionAndThread/05-ExceptionAndThread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-Thread/06-Thread.iml" filepath="$PROJECT_DIR$/06-Thread/06-Thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-threadAndLambda/07-threadAndLambda.iml" filepath="$PROJECT_DIR$/07-threadAndLambda/07-threadAndLambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08-FileAndRecursion/08-FileAndRecursion.iml" filepath="$PROJECT_DIR$/08-FileAndRecursion/08-FileAndRecursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09-IOAndProperties/09-IOAndProperties.iml" filepath="$PROJECT_DIR$/09-IOAndProperties/09-IOAndProperties.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10-IO/10-IO.iml" filepath="$PROJECT_DIR$/10-IO/10-IO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11-Net/11-Net.iml" filepath="$PROJECT_DIR$/11-Net/11-Net.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12-FunctionnalInterface/12-FunctionnalInterface.iml" filepath="$PROJECT_DIR$/12-FunctionnalInterface/12-FunctionnalInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13-StreamAndMethodReference/13-StreamAndMethodReference.iml" filepath="$PROJECT_DIR$/13-StreamAndMethodReference/13-StreamAndMethodReference.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14-基础加强/14-基础加强.iml" filepath="$PROJECT_DIR$/14-基础加强/14-基础加强.iml" />
+      <module fileurl="file://$PROJECT_DIR$/18-JDBC/18-JDBC.iml" filepath="$PROJECT_DIR$/18-JDBC/18-JDBC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/19-dataSource_jdbcTemplate/19-dataSource_jdbcTemplate.iml" filepath="$PROJECT_DIR$/19-dataSource_jdbcTemplate/19-dataSource_jdbcTemplate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Advanced-code.iml" filepath="$PROJECT_DIR$/.idea/Advanced-code.iml" />
+    </modules>
+  </component>
+</project>
